@@ -1,0 +1,13 @@
+user1,1234,Customer,Vanessa,Blackwood,+1 (555) 123-4567,jennysmith87@example.com
+user2,1243,Customer,Dominic,Sanchez,+44 20 7946 0958,david.jones23@gmail.com
+user3,1324,Customer,Elise,Thornton,+33 1 84 73 00 12,emily.white56@hotmail.com
+user4,1342,Customer,Malcolm,Mitchell,+81 3 4578 9032,kevinbrown34@yahoo.com
+user5,1423,Customer,Nora,Harper,+49 30 1234 5678,lisa.miller99@outlook.com
+user6,1432,Customer,Felix,Montgomery,+61 2 8765 4321,morgan.wilson12@gmail.com
+user7,2134,Customer,Isabella,Diaz,+55 11 98765 4321,robert.james45@yahoo.com
+user8,2143,Customer,Victor,Sullivan,+91 22 8765 4321,sarah.clark78@hotmail.com
+user9,92314,Customer,Penelope,Stone,+39 02 1234 5678,chris.martin22@example.com
+user10,2341,Customer,Leo,Chandler,+34 91 876 54 32,alicia.green55@outlook.com
+user11,2413,WarehouseManager,Adriana,Vega,+65 6221 4321,brian.evans67@gmail.com
+user12,4565,Customer,Nikos,Papadopoulos,69000000,mp@gmail.com
+user13,1254,Customer,Donny,Lark,+69 73 46 3563,donnylark@gmail.com
